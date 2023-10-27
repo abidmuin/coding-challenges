@@ -1,2 +1,2 @@
 # coding-challenges
-Solution of coding challenges from https://codingchallenges.fyi/
+Solution of [Coding Challenges](https://codingchallenges.fyi/)
