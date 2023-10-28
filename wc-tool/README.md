@@ -59,7 +59,7 @@ In this step your goal is to support the command line option -l that outputs the
 If you’ve done it right your output should match this:
 
 ```commandline
- ccwc -l test.txt
+ccwc -l test.txt
 7137 test.txt
 ```
 
